@@ -1,3 +1,2 @@
 # Chris-2112
-
-Testing Editing a Read Me file and comitting in command prompt.
+Practicing github commands and getting in the habit of using the command prompt for making commits.
